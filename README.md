@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/azkadarmawan/azkadarmawan/main/banner.png" alt="AZKA DARMAWAN - Cybersecurity" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Azka Darmawan 👋</h1>
+<h1 align="center">Hi, I'm Azka as Known As 𝕄𝟜.𝕫𝕜𝕒𝕕 </h1>
 <p align="center">
   <em>Cybersecurity enthusiast • CTF Player • Network & Pentesting</em>
 </p>
@@ -21,9 +21,8 @@
 ---
 
 ## 🔥 About me
-- Mahasiswa Teknologi Informasi — fokus: jaringan & cybersecurity.  
-- Aktif di CTF (picoCTF, HackTheBox, TryHackMe) dan learning-by-doing lewat lab GNS3 & Kali.  
-- Preferensi: belajar malam hari, hands-on, langsung praktik.
+- Undergraduate Of Technology Information   
+- Active in CTF Platforms (picoCTF, HackTheBox, TryHackMe)   
 
 ---
 
