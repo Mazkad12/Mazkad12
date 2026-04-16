@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner placeholder: ganti URL setelah upload banner ke repo -->
-  <img src="https://raw.githubusercontent.com/azkadarmawan/azkadarmawan/main/banner.png" alt="AZKA DARMAWAN - Cybersecurity" width="100%"/>
+  <img https://raw.githubusercontent.com/Mazkad12/Mazkad12/main/_Icons.jpg - Cybersecurity" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Azka as Known As 𝕄𝟜.𝕫𝕜𝕒𝕕 </h1>
